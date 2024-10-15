@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+	  <title>Radio Messages From Space</title>
+	  <link>https://github.com/Gomaya18/rms/</link>
+	  <language>en-us</language>
+	  <atom:link href="https://github.com/Gomaya18/rms/feed.xml" rel="self" type="application/rss+xml"/>
+	  <copyright>Gomaya</copyright>
+	  <itunes:subtitle>Benevolent messages and guidance recieved from our star family</itunes:subtitle>
+	  <itunes:author>Gomaya</itunes:author>
+	  <itunes:summary>
+	  Benevolent messages and guidance recieved from our star family
+	  </itunes:summary>
+	  <itunes:keywords>sounds</itunes:keywords>
+	  <description>
+	  Benevolent messages and guidance recieved from our star family
+	  </description>
+	  <itunes:owner>
+	  <itunes:name>Gomaya</itunes:name>
+	  <itunes:email>gomaya2018@gmail.com</itunes:email>
+	  </itunes:owner>
+	  <itunes:image href="https://github.com/Gomaya18/rms/logo1024.png"/>
+	  <itunes:category text="Education">
+		  <itunes:category text="Self-Improvement"/>
+	  </itunes:category>
+	  <itunes:explicit>no</itunes:explicit>
+      
+    <item>
+      <link>https://github.com/Gomaya18/rms/</link>
+      <itunes:author>Gomaya</itunes:author>
+      <title>Transmission 001</title>
+      <itunes:subtitle>Prepare to enter the wondrous realm of the 5th dimension</itunes:subtitle>
+      <itunes:summary> <![CDATA[ If you found this interesting/useful/helpful, please share a link to this podcast with friends and family... ]]> </itunes:summary>
+      <description> <![CDATA[ If you found this interesting/useful/helpful, please share a link to this podcast with friends and family... ]]> </description>
+      <enclosure url='https://github.com/Gomaya18/rms/mp3s/rms001.mp3' length='7575621' type='audio/mpeg'/>
+      <itunes:duration>546.216</itunes:duration>
+      <guid isPermaLink='false'>http://github.com/Gomaya18/rms/mp3s/rms001.mp3</guid>
+      <pubDate>Tue Oct 15 11:11:11 2024</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
+
