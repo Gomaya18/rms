@@ -21,7 +21,7 @@
 	  </itunes:owner>
 	  <itunes:image href="https://github.com/Gomaya18/rms/logo1024.png"/>
 	  <itunes:category text="Education">
-		  <itunes:category text="Self-Improvement"/>
+	    <itunes:category text="Self-Improvement"/>
 	  </itunes:category>
 	  <itunes:explicit>no</itunes:explicit>
       
@@ -32,9 +32,9 @@
       <itunes:subtitle>Prepare to enter the wondrous realm of the 5th dimension</itunes:subtitle>
       <itunes:summary> <![CDATA[ If you found this interesting/useful/helpful, please share a link to this podcast with friends and family... ]]> </itunes:summary>
       <description> <![CDATA[ If you found this interesting/useful/helpful, please share a link to this podcast with friends and family... ]]> </description>
-      <enclosure url='https://github.com/Gomaya18/rms/mp3s/rms001.mp3' length='7575621' type='audio/mpeg'/>
-      <itunes:duration>546.216</itunes:duration>
-      <guid isPermaLink='false'>http://github.com/Gomaya18/rms/mp3s/rms001.mp3</guid>
+      <enclosure url='https://github.com/Gomaya18/rms/mp3s/rms-001.mp3' length='5512512' type='audio/mpeg'/>
+      <itunes:duration>341.0</itunes:duration>
+      <guid isPermaLink='false'>http://github.com/Gomaya18/rms/mp3s/rms-001.mp3</guid>
       <pubDate>Tue Oct 15 11:11:11 2024</pubDate>
       <itunes:explicit>no</itunes:explicit>
     </item>
