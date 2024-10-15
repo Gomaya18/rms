@@ -3,8 +3,8 @@
   <channel>
 	  <title>Radio Messages From Space</title>
 	  <link>https://github.com/Gomaya18/rms/</link>
-	  <language>en-us</language>
-	  <atom:link href="https://github.com/Gomaya18/rms/raw/refs/heads/main/feed.xml" rel="self" type="application/rss+xml"/>
+	  <language>en-us</language>	  
+	  <atom:link href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/feed.xml" rel="self" type="application/rss+xml"/>
 	  <copyright>Gomaya</copyright>
 	  <itunes:subtitle>Benevolent messages and guidance recieved from our star family</itunes:subtitle>
 	  <itunes:author>Gomaya</itunes:author>
@@ -19,7 +19,7 @@
 	  <itunes:name>Gomaya</itunes:name>
 	  <itunes:email>gomaya2018@gmail.com</itunes:email>
 	  </itunes:owner>
-	  <itunes:image href="https://github.com/Gomaya18/rms/raw/refs/heads/main/logo1024.png"/>
+	  <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
 	  <itunes:category text="Education">
 	    <itunes:category text="Self-Improvement"/>
 	  </itunes:category>
@@ -32,9 +32,9 @@
       <itunes:subtitle>Prepare to enter the wondrous realm of the 5th dimension</itunes:subtitle>
       <itunes:summary> <![CDATA[ If you found this interesting/useful/helpful, please share a link to this podcast with friends and family... ]]> </itunes:summary>
       <description> <![CDATA[ If you found this interesting/useful/helpful, please share a link to this podcast with friends and family... ]]> </description>
-      <enclosure url='https://github.com/Gomaya18/rms/raw/refs/heads/main/mp3s/rms-001.mp3' length='5512512' type='audio/mpeg'/>
+      <enclosure url='https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-001.mp3' length='5512512' type='audio/mpeg'/>
       <itunes:duration>341.0</itunes:duration>
-      <guid isPermaLink='false'>http://github.com/Gomaya18/rms/raw/refs/heads/main/mp3s/rms-001.mp3</guid>
+      <guid isPermaLink='false'>https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-001.mp3</guid>
       <pubDate>Tue Oct 15 11:11:11 2024</pubDate>
       <itunes:explicit>no</itunes:explicit>
     </item>
