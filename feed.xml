@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
 	  <title>Radio Messages From Space</title>
 	  <link>https://github.com/Gomaya18/rms/</link>
@@ -26,17 +26,19 @@
 	  <itunes:explicit>no</itunes:explicit>
       
     <item>
+			<title>Transmission 001</title>
       <link>https://github.com/Gomaya18/rms/</link>
       <itunes:author>Gomaya</itunes:author>
-      <title>Transmission 001</title>
+      <description> <![CDATA[ If you found this interesting/useful/helpful, please share a link to this podcast with friends and family... ]]> </description>
       <itunes:subtitle>Prepare to enter the wondrous realm of the 5th dimension</itunes:subtitle>
       <itunes:summary> <![CDATA[ If you found this interesting/useful/helpful, please share a link to this podcast with friends and family... ]]> </itunes:summary>
-      <description> <![CDATA[ If you found this interesting/useful/helpful, please share a link to this podcast with friends and family... ]]> </description>
+      <pubDate>Tue, 16 Oct 2024 11:11:11 +0000</pubDate>
+      <itunes:duration>341</itunes:duration>
       <enclosure url='https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-001.mp3' length='5512512' type='audio/mpeg'/>
-      <itunes:duration>341.0</itunes:duration>
-      <guid isPermaLink='false'>https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-001.mp3</guid>
-      <pubDate>Tue Oct 15 11:11:11 2024</pubDate>
-      <itunes:explicit>no</itunes:explicit>
+      <ppg:enclosureSecure url="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-001.mp3" length="5512512" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:gomaya:podcast:rms001</guid>
+			<itunes:explicit>clean</itunes:explicit>
+      <media:content url="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-001.mp3" fileSize="5512512" type="audio/mpeg" medium="audio" expression="full" duration="341"/><itunes:author>Gomaya</itunes:author>
     </item>
 
   </channel>
