@@ -23,6 +23,20 @@
 	  <itunes:category text="Education"/>
 	  <itunes:explicit>clean</itunes:explicit>
     <item>
+      <title>Transmission 004</title>
+      <link>https://github.com/Gomaya18/rms/</link>
+      <itunes:author>Gomaya</itunes:author>
+      <description> <![CDATA[ helpful guidance along your path... ]]> </description>
+      <itunes:subtitle>helpful guidance along your path...</itunes:subtitle>
+      <itunes:summary> <![CDATA[ helpful guidance along your path... ]]> </itunes:summary>
+      <pubDate>Sun, 20 Oct 2024 11:11:11 GMT</pubDate>
+      <itunes:duration>284</itunes:duration>
+      <enclosure url='https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-004.mp3' length='4873128' type='audio/mpeg'/>
+      <guid isPermaLink="false">urn:gomaya:podcast:rms004</guid>
+			<itunes:explicit>clean</itunes:explicit>
+      <media:content url="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-004.mp3" fileSize="4873128" type="audio/mpeg" medium="audio" expression="full" duration="284"/>
+    </item>
+    <item>
       <title>Transmission 003</title>
       <link>https://github.com/Gomaya18/rms/</link>
       <itunes:author>Gomaya</itunes:author>
