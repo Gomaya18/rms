@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/>
   <channel>
 	  <title>Radio Messages From Space</title>
 	  <link>https://github.com/Gomaya18/rms/</link>
-	  <language>en-us</language>	  
+	  <language>en-US</language>	  
 	  <atom:link href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/feed.xml" rel="self" type="application/rss+xml"/>
 	  <copyright>Gomaya</copyright>
 	  <itunes:subtitle>Benevolent messages and guidance recieved from our star family</itunes:subtitle>
@@ -21,7 +21,22 @@
 	  </itunes:owner>
 	  <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
 	  <itunes:category text="Education"/>
-	  <itunes:explicit>clean</itunes:explicit>
+	  <itunes:explicit>false</itunes:explicit>
+	  <item>
+      <title>Transmission 005</title>
+      <link>https://github.com/Gomaya18/rms/</link>
+      <itunes:author>Gomaya</itunes:author>
+      <description> <![CDATA[ advice for lightworker as we enter the darker months... ]]> </description>
+      <itunes:subtitle>advice for lightworker as we enter the darker months...</itunes:subtitle>
+      <itunes:summary> <![CDATA[ advice for lightworker as we enter the darker months... ]]> </itunes:summary>
+      <pubDate>Tue, 22 Oct 2024 11:11:11 GMT</pubDate>
+      <itunes:duration>241</itunes:duration>
+      <enclosure url='https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-004.mp3' length='3750288' type='audio/mpeg'/>
+      <guid isPermaLink="false">urn:gomaya:podcast:rms005</guid>
+			<itunes:explicit>false</itunes:explicit>
+      <media:content url="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-005.mp3" fileSize="3750288" type="audio/mpeg" medium="audio" expression="full" duration="241"/>
+      <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
+    </item>
     <item>
       <title>Transmission 004</title>
       <link>https://github.com/Gomaya18/rms/</link>
@@ -33,8 +48,9 @@
       <itunes:duration>284</itunes:duration>
       <enclosure url='https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-004.mp3' length='4873128' type='audio/mpeg'/>
       <guid isPermaLink="false">urn:gomaya:podcast:rms004</guid>
-			<itunes:explicit>clean</itunes:explicit>
+			<itunes:explicit>false</itunes:explicit>
       <media:content url="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-004.mp3" fileSize="4873128" type="audio/mpeg" medium="audio" expression="full" duration="284"/>
+      <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
     </item>
     <item>
       <title>Transmission 003</title>
@@ -47,8 +63,9 @@
       <itunes:duration>324</itunes:duration>
       <enclosure url='https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-003.mp3' length='5276304' type='audio/mpeg'/>
       <guid isPermaLink="false">urn:gomaya:podcast:rms003</guid>
-			<itunes:explicit>clean</itunes:explicit>
+			<itunes:explicit>false</itunes:explicit>
       <media:content url="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-003.mp3" fileSize="5276304" type="audio/mpeg" medium="audio" expression="full" duration="324"/>
+      <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
     </item>
     <item>
       <title>Transmission 002</title>
@@ -61,8 +78,9 @@
       <itunes:duration>173</itunes:duration>
       <enclosure url='https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-002.mp3' length='2755320' type='audio/mpeg'/>
       <guid isPermaLink="false">urn:gomaya:podcast:rms002</guid>
-			<itunes:explicit>clean</itunes:explicit>
+			<itunes:explicit>false</itunes:explicit>
       <media:content url="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-002.mp3" fileSize="2755320" type="audio/mpeg" medium="audio" expression="full" duration="173"/>
+      <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
     </item>
     <item>
       <title>Transmission 001</title>
@@ -75,8 +93,9 @@
       <itunes:duration>341</itunes:duration>
       <enclosure url='https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-001.mp3' length='5512512' type='audio/mpeg'/>
       <guid isPermaLink="false">urn:gomaya:podcast:rms001</guid>
-			<itunes:explicit>clean</itunes:explicit>
+			<itunes:explicit>false</itunes:explicit>
       <media:content url="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-001.mp3" fileSize="5512512" type="audio/mpeg" medium="audio" expression="full" duration="341"/>
+      <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
     </item>
   </channel>
 </rss>
