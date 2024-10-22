@@ -3,7 +3,6 @@
   <channel>
 	  <title>Radio Messages From Space</title>
 	  <link>https://github.com/Gomaya18/rms/</link>
-	  <language>en-US</language>	  
 	  <atom:link href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/feed.xml" rel="self" type="application/rss+xml"/>
 	  <copyright>Gomaya</copyright>
 	  <itunes:subtitle>Benevolent messages and guidance recieved from our star family</itunes:subtitle>
