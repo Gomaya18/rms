@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
+		<language>en</language>
 	  <title>Radio Messages From Space</title>
 	  <link>https://github.com/Gomaya18/rms/</link>
 	  <atom:link href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/feed.xml" rel="self" type="application/rss+xml"/>
