@@ -23,6 +23,21 @@
 	  <itunes:category text="Education"/>
 	  <itunes:explicit>false</itunes:explicit>
 	  <item>
+      <title>Transmission 006</title>
+      <link>https://github.com/Gomaya18/rms/</link>
+      <itunes:author>Gomaya</itunes:author>
+      <description> <![CDATA[ A brief update on the current situation Nov 1st 2024... ]]> </description>
+      <itunes:subtitle>A brief update on the current situation Nov 1st 2024...</itunes:subtitle>
+      <itunes:summary> <![CDATA[ A brief update on the current situation Nov 1st 2024... ]]> </itunes:summary>
+      <pubDate>Tue, 05 Nov 2024 11:11:11 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <enclosure url='https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-006.mp3' length='1167024' type='audio/mpeg'/>
+      <guid isPermaLink="false">urn:gomaya:podcast:rms006</guid>
+			<itunes:explicit>false</itunes:explicit>
+      <media:content url="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-006.mp3" fileSize="1167024" type="audio/mpeg" medium="audio" expression="full" duration="77"/>
+      <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
+    </item>
+	  <item>
       <title>Transmission 005</title>
       <link>https://github.com/Gomaya18/rms/</link>
       <itunes:author>Gomaya</itunes:author>
