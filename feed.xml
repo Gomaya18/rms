@@ -23,7 +23,22 @@
 	  <itunes:category text="Education"/>
 	  <itunes:explicit>false</itunes:explicit>
 	  <item>
-      <title>Transmission 006</title>
+      <title>Transmission 007 - Collapsing the old systems to make new Earth</title>
+      <link>https://github.com/Gomaya18/rms/</link>
+      <itunes:author>Gomaya</itunes:author>
+      <description> <![CDATA[ Earth must collapse its old systems first, before new Earth can be built... ]]> </description>
+      <itunes:subtitle>Earth must collapse its old systems first, before new Earth can be built..</itunes:subtitle>
+      <itunes:summary> <![CDATA[ Earth must collapse its old systems first, before new Earth can be built... ]]> </itunes:summary>
+      <pubDate>Thu, 07 Nov 2024 11:11:11 GMT</pubDate>
+      <itunes:duration>330</itunes:duration>
+      <enclosure url='https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-007.mp3' length='5263680' type='audio/mpeg'/>
+      <guid isPermaLink="false">urn:gomaya:podcast:rms007</guid>
+			<itunes:explicit>false</itunes:explicit>
+      <media:content url="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/mp3s/rms-007.mp3" fileSize="5263680" type="audio/mpeg" medium="audio" expression="full" duration="330"/>
+      <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
+    </item>
+	  <item>
+      <title>Transmission 006 - Brief update</title>
       <link>https://github.com/Gomaya18/rms/</link>
       <itunes:author>Gomaya</itunes:author>
       <description> <![CDATA[ A brief update on the current situation Nov 1st 2024... ]]> </description>
@@ -38,7 +53,7 @@
       <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
     </item>
 	  <item>
-      <title>Transmission 005</title>
+      <title>Transmission 005 - advice for darker months</title>
       <link>https://github.com/Gomaya18/rms/</link>
       <itunes:author>Gomaya</itunes:author>
       <description> <![CDATA[ advice for lightworker as we enter the darker months... ]]> </description>
@@ -53,7 +68,7 @@
       <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
     </item>
     <item>
-      <title>Transmission 004</title>
+      <title>Transmission 004 - helpful guidance</title>
       <link>https://github.com/Gomaya18/rms/</link>
       <itunes:author>Gomaya</itunes:author>
       <description> <![CDATA[ helpful guidance along your path... ]]> </description>
@@ -68,7 +83,7 @@
       <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
     </item>
     <item>
-      <title>Transmission 003</title>
+      <title>Transmission 003 - revealing your real history</title>
       <link>https://github.com/Gomaya18/rms/</link>
       <itunes:author>Gomaya</itunes:author>
       <description> <![CDATA[ The wool has been pulled over humanitys eyes for thousands of years... ]]> </description>
@@ -83,7 +98,7 @@
       <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
     </item>
     <item>
-      <title>Transmission 002</title>
+      <title>Transmission 002 - guiding you to new Earth</title>
       <link>https://github.com/Gomaya18/rms/</link>
       <itunes:author>Gomaya</itunes:author>
       <description> <![CDATA[ We are connecting with you once again, to guide you into a new world... ]]> </description>
@@ -98,7 +113,7 @@
       <itunes:image href="https://raw.githubusercontent.com/Gomaya18/rms/refs/heads/main/logo1024.png"/>
     </item>
     <item>
-      <title>Transmission 001</title>
+      <title>Transmission 001 - 5D is coming</title>
       <link>https://github.com/Gomaya18/rms/</link>
       <itunes:author>Gomaya</itunes:author>
       <description> <![CDATA[ Prepare to enter the wondrous realm of the 5th dimention... ]]> </description>
